@@ -357,3 +357,4 @@ run_demo_loop(agent, stream=True)
 - Charu Jaiswal - [charuj](https://github.com/charuj)
 - Colin Jarvis - [colin-openai](https://github.com/colin-openai)
 - Katia Gil Guzman - [katia-openai](https://github.com/katia-openai)
+- And me XD
